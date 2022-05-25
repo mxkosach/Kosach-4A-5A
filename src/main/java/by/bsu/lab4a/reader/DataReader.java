@@ -2,6 +2,9 @@ package by.bsu.lab4a.reader;
 
 import by.bsu.lab4a.entity.Puppy;
 import by.bsu.lab4a.evidence.DogBreed;
+import by.bsu.lab4a.exception.FileException;
+import by.bsu.lab4a.validator.Validator;
+import by.bsu.lab4a.validator.ValidatorImp;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,7 +12,13 @@ import java.io.FileReader;
 import java.util.Scanner;
 
 public class DataReader {
-    public Puppy readFromFile(String file) throws FileNotFoundException {
+    public Puppy readFromFile(String file) throws FileException, FileNotFoundException {
+
+        Validator validator = new ValidatorImp();
+        File fileNew = new File(file);
+        boolean resultValidator = validator.checkFile(fileNew);
+        if (!resultValidator) throw new FileException("File is not exit");
+
         FileReader reader = new FileReader(file);
         Scanner scanner = new Scanner(reader);
 
