@@ -1,0 +1,51 @@
+2022-04-17 20:42:52,534 ERROR b.b.l.m.LogMain [main] first log
+2022-04-17 20:43:39,737 ERROR b.b.l.m.LogMain [main] first log
+2022-04-17 20:51:25,461 ERROR b.b.l.m.LogMain [main] first log
+2022-04-17 20:54:17,872 DEBUG b.b.l.m.LogMain [main] first log
+2022-04-17 20:54:46,508 INFO b.b.l.m.LogMain [main] first log
+2022-04-17 20:59:19,810 INFO b.b.l.a.PuppyOperator [main] first log
+2022-04-17 21:00:33,797 INFO b.b.l.a.PuppyOperator [main] first log
+2022-04-17 21:01:31,412 INFO b.b.l.a.PuppyOperator [main] run
+2022-04-17 21:02:26,481 INFO b.b.l.a.PuppyOperator [main] Name: Walter
+2022-04-17 21:02:26,483 INFO b.b.l.a.PuppyOperator [main] bite
+2022-04-17 21:02:26,484 INFO b.b.l.a.PuppyOperator [main] jump
+2022-04-17 21:02:26,484 INFO b.b.l.a.PuppyOperator [main] Woof-woof
+2022-04-17 21:02:26,484 INFO b.b.l.a.PuppyOperator [main] run
+2022-04-17 21:06:57,051 INFO b.b.l.a.PuppyOperator [main] Name: Walter
+2022-04-17 21:06:57,053 INFO b.b.l.a.PuppyOperator [main] bite
+2022-04-17 21:06:57,053 INFO b.b.l.a.PuppyOperator [main] jump
+2022-04-17 21:06:57,053 INFO b.b.l.a.PuppyOperator [main] Woof-woof
+2022-04-17 21:06:57,053 INFO b.b.l.a.PuppyOperator [main] run
+2022-04-17 21:07:27,081 INFO b.b.l.a.PuppyOperator [main] Name: Walter
+2022-04-17 21:07:27,082 INFO b.b.l.a.PuppyOperator [main] bite
+2022-04-17 21:07:27,082 INFO b.b.l.a.PuppyOperator [main] jump
+2022-04-17 21:07:27,083 INFO b.b.l.a.PuppyOperator [main] Woof-woof
+2022-04-17 21:07:27,083 INFO b.b.l.a.PuppyOperator [main] run
+2022-04-17 21:10:18,968 INFO b.b.l.a.PuppyOperator [main] Name: Walter
+2022-04-17 21:10:18,970 INFO b.b.l.a.PuppyOperator [main] bite
+2022-04-17 21:10:18,970 INFO b.b.l.a.PuppyOperator [main] jump
+2022-04-17 21:10:18,970 INFO b.b.l.a.PuppyOperator [main] Woof-woof
+2022-04-17 21:10:18,970 INFO b.b.l.a.PuppyOperator [main] run
+2022-04-17 21:52:36,047 INFO b.b.l.m.Main [main] Name: Walter
+2022-04-17 21:52:36,050 INFO b.b.l.m.Main [main] bite
+2022-04-17 21:52:36,050 INFO b.b.l.m.Main [main] jump
+2022-04-17 21:52:36,050 INFO b.b.l.m.Main [main] Woof-woof
+2022-04-17 21:52:36,050 INFO b.b.l.m.Main [main] run
+2022-04-17 21:58:24,143 INFO b.b.l.m.Main [main] Puppy{Dog{Animal{name='Walter', age=5}breed=BOXER}}
+2022-04-17 21:58:24,146 INFO b.b.l.m.Main [main] Name: Walter
+2022-04-17 21:58:24,147 INFO b.b.l.m.Main [main] bite
+2022-04-17 21:58:24,147 INFO b.b.l.m.Main [main] jump
+2022-04-17 21:58:24,147 INFO b.b.l.m.Main [main] Woof-woof
+2022-04-17 21:58:24,147 INFO b.b.l.m.Main [main] run
+2022-05-05 13:55:16,923 INFO b.b.l.m.Main [main] Puppy{Dog{Animal{name='Walter', age=5}breed=BOXER}}
+2022-05-05 13:55:16,933 INFO b.b.l.m.Main [main] Name: Walter
+2022-05-05 13:55:16,934 INFO b.b.l.m.Main [main] bite
+2022-05-05 13:55:16,934 INFO b.b.l.m.Main [main] jump
+2022-05-05 13:55:16,934 INFO b.b.l.m.Main [main] Woof-woof
+2022-05-05 13:55:16,934 INFO b.b.l.m.Main [main] run
+2022-05-05 14:19:31,800 INFO b.b.l.m.Main [main] Puppy{Dog{Animal{name='Walter', age=5}breed=BOXER}}
+2022-05-05 14:19:31,806 INFO b.b.l.m.Main [main] Name: Walter
+2022-05-05 14:19:31,807 INFO b.b.l.m.Main [main] bite
+2022-05-05 14:19:31,807 INFO b.b.l.m.Main [main] jump
+2022-05-05 14:19:31,807 INFO b.b.l.m.Main [main] Woof-woof
+2022-05-05 14:19:31,807 INFO b.b.l.m.Main [main] run
